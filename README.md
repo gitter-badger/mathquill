@@ -1,5 +1,7 @@
 # [MathQuill](http://mathquill.github.com)
 
+[![Join the chat at https://gitter.im/brosnanyuen/mathquill](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/brosnanyuen/mathquill?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 by [Han][] and [Jeanine][].  Current development is proudly supported by [Desmos][], whose awesome graphing calculator makes extensive use of Mathquill.
 
 [Han]: http://github.com/laughinghan
